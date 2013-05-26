@@ -1,7 +1,11 @@
 #
 # ADDITIONAL_DEFAULT_PROPERTIES
 #
-ro.secure=1
+ro.secure=0
 ro.allow.mock.location=0
 ro.debuggable=1
 persist.sys.usb.config=adb
+ro.cwm.enable_key_repeat=true
+ro.product.device=es209ra
+ro.kernel.version=-tof37-01
+ro.recversion=CWM-based Recovery v6.0.2.8
